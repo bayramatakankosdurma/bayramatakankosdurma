@@ -29,7 +29,7 @@
 LinkedIn:&nbsp;<a href="https://www.linkedin.com/in/bayram-atakan-ko%C5%9Fdurma-1406301a1/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="25" width="25" color="red"></a><br>
 eMail&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;<a href="mailto:atakan.kosdurma@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" height="25" width="25"></a><br>
 <hr>
-<h3><strong><i class="fa fa-bar-chart" style="font-size:24px"></i>Here is my stats,</strong></h3>
+<h3><strong>&#x1f4c8; Here is my GitHub stats,</strong></h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayramatakankosdurma)](https://github.com/bayramatakankosdurma/github-readme-stats)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=bayramatakankosdurma&theme=synthwave&show_icons=true&count_private=true)
