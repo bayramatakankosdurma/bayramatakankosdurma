@@ -13,7 +13,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;I am a web developer. I am a licence student at Bursa Technical University with profession of Computer Engineering.
 </br>
 <br>
- &#x25B8; I was a Intern at <a href="https://pirahas.com/">Pirahas Yazılım</a> for 4 months. July 2020 to November 2020.
+ &#x25B8; I was an Intern at <a href="https://pirahas.com/">Pirahas Yazılım</a> for 4 months. July 2020 to November 2020.
 </br>
  &#x25B8; I am learning SQL and Bootstrap 4. For the next step, I will learn JavaScript and it's derivative languages.
 </br>
