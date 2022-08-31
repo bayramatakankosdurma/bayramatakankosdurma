@@ -13,21 +13,23 @@
 &nbsp;&nbsp;&nbsp;&nbsp;I am a web developer. I am a licence student at Bursa Technical University with profession of Computer Engineering.
 </br>
 <br>
- &#x25B8; I was an Intern at <a href="https://pirahas.com/">Pirahas Yazılım</a> for 4 months. July 2020 to November 2020.
+ &#x25B8; I was an Intern at <a href="https://pirahas.com/" target="_blank">Pirahas Yazılım</a> for 4 months. July 2020 to November 2020.
 </br>
- &#x25B8; I am learning SQL and Bootstrap 4. For the next step, I will learn JavaScript and it's derivative languages.
+ &#x25B8; I am learning Angular, Typescript and Javascript for now. I am planning to start learning Spring Framework.
 </br>
- &#x25B8; I am planning to use these skills to freelance. I will try to be a Freelance Developer soon.
+ &#x25B8; I am planning to use these skills to freelance and web developing. 
 
 ## My Interests
-&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" height="25" width="25">&nbsp;Html5<br>
-&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" height="25" width="25">&nbsp;Bootstrap4<br>
-&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" height="25" width="25">&nbsp;CSS<br>
+&nbsp;<a href="https://www.w3schools.com/html/" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="25" width="25" alt="HTML5"/>&nbsp;HTML5</a><br>
+&nbsp;<a href="https://getbootstrap.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" height="25" width="25">&nbsp;Bootstrap5</a><br>
+&nbsp;<a href="https://www.w3schools.com/css/default.asp" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" height="25" width="25">&nbsp;CSS</a><br>
+&nbsp;<a href="https://angular.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" height="25" width="25">&nbsp;Angular</a><br>
+&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" height="25" width="25">&nbsp;Javascript</a><br>
 
 <h3><strong>📫To contact me,</strong></h3>
 <hr>
-LinkedIn:&nbsp;<a href="https://www.linkedin.com/in/bayram-atakan-ko%C5%9Fdurma-1406301a1/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="25" width="25" color="red"></a><br>
-eMail&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;<a href="mailto:atakan.kosdurma@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" height="25" width="25"></a><br>
+LinkedIn:&nbsp;<a href="https://www.linkedin.com/in/bayram-atakan-ko%C5%9Fdurma-1406301a1/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="25" width="25" color="red" alt="LinkedIn"></a><br>
+eMail&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;<a href="mailto:atakan.kosdurma@gmail.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="25" width="25" alt="Gmail"></a><br>
 <hr>
 <h3><strong>&#x1f4c8; Here is my GitHub stats,</strong></h3>
 
