@@ -33,7 +33,7 @@ eMail&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;<a href="mailto:atakan.kosdurma@gmail.
 <hr>
 <h3><strong>&#x1f4c8; Here is my GitHub stats,</strong></h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayramatakankosdurma)](https://github.com/bayramatakankosdurma/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayramatakankosdurma)](https://github.com/bayramatakankosdurma/github-readme-stats)-->
 ![Github stats](https://github-readme-stats.vercel.app/api?username=bayramatakankosdurma&theme=synthwave&show_icons=true&count_private=true)
 
 
