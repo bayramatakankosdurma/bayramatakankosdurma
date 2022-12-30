@@ -10,18 +10,22 @@
 
 <h3><strong>💬To get to know me,</strong></h3>
 <hr>
-&nbsp;&nbsp;&nbsp;&nbsp;I am a web developer. I am a licence student at Bursa Technical University with profession of Computer Engineering.
+&nbsp;&nbsp;&nbsp;&nbsp;I am a full stack web developer. I am a licence student at Bursa Technical University with profession of Computer Engineering.
+</br>
 </br>
  &#x25B8; I am learning C#, Angular and ASP.NET Zero framework for full stack development.
 </br>
  &#x25B8; I am planning to use these skills to freelance and web developing. 
 
 ## My Interests
-&nbsp;<a href="https://www.w3schools.com/html/" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="25" width="25" alt="HTML5"/>&nbsp;HTML5</a><br>
-&nbsp;<a href="https://getbootstrap.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" height="25" width="25">&nbsp;Bootstrap5</a><br>
-&nbsp;<a href="https://www.w3schools.com/css/default.asp" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" height="25" width="25">&nbsp;CSS</a><br>
+&nbsp;<a href="https://www.w3schools.com/html/" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="25" width="25" alt="HTML5"/>&nbsp;HTML5</a></br>
+&nbsp;<a href="https://getbootstrap.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" height="25" width="25">&nbsp;Bootstrap5</a></br>
+&nbsp;<a href="https://www.w3schools.com/cs/index.php" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" height="25" width="25">&nbsp;C#</a></br>
+&nbsp;<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/684px-Microsoft_.NET_logo.svg.png" height="25" width="25">&nbsp;ASP.NET</a></br>
+&nbsp;<a href="https://www.w3schools.com/css/default.asp" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" height="25" width="25">&nbsp;CSS</a></br>
 &nbsp;<a href="https://angular.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" height="25" width="25">&nbsp;Angular</a><br>
-&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" height="25" width="25">&nbsp;Javascript</a><br>
+&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" height="25" width="25">&nbsp;Javascript</a></br>
+
 
 <h3><strong>📫To contact me,</strong></h3>
 <hr>
