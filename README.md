@@ -12,10 +12,7 @@
 <hr>
 &nbsp;&nbsp;&nbsp;&nbsp;I am a web developer. I am a licence student at Bursa Technical University with profession of Computer Engineering.
 </br>
-<br>
- &#x25B8; I was an Intern at <a href="https://pirahas.com/" target="_blank">Pirahas Yazılım</a> for 4 months. July 2020 to November 2020.
-</br>
- &#x25B8; I am learning Angular, Typescript and Javascript for now. I am planning to start learning Spring Framework.
+ &#x25B8; I am learning C#, Angular and ASP.NET Zero framework for full stack development.
 </br>
  &#x25B8; I am planning to use these skills to freelance and web developing. 
 
