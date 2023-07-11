@@ -10,10 +10,10 @@
 
 <h3><strong>💬To get to know me,</strong></h3>
 <hr>
-&nbsp;&nbsp;&nbsp;&nbsp;I am a full stack web developer. I am a licence student at Bursa Technical University with profession of Computer Engineering.
+&nbsp;&nbsp;&nbsp;&nbsp;I am a full stack web developer. I graduated from Bursa Technical University with a profession in Computer Engineering.
 </br>
 </br>
- &#x25B8; I am learning C#, Angular and ASP.NET Zero framework for full stack development.
+ &#x25B8; I am learning C#, Angular, and ASP.NET Zero framework for full-stack development.
 </br>
  &#x25B8; I am planning to use these skills to freelance and web developing. 
 
